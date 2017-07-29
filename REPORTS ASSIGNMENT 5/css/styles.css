@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.col-md-1{
+    height: 660px;
+    background-color: steelblue;
+}
+.col-md-10{
+    height: 660px;
+}
+h4{
+    text-align: center;
+    color: steelblue;
+}
+p{
+    font-size: 11px;
+}
+.input-group{
+    width: 600px;
+    float: right;
+    margin-right: 
+    height: 5px;
+}
+.col-md-4{
+    background-color: white;
+    height: 550px;
+}
+.panel-body{
+    height: 115px;
+    background-color: steelblue;
+    color: white;
+    border-radius: 10px;
+}
+.panel {
+    background-color: orange;
+}
+.btn{
+    margin-right: 5px;
+}
